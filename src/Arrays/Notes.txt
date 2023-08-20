@@ -1,0 +1,27 @@
+
+
+                            Arrays
+                         --------------
+
+      Topic :-
+            -> Syntax
+            -> Memory Management
+            -> Internal Working
+            -> Operations
+                   -> Insertion
+                          -> Insert at end
+                          -> Insert at given index
+                   -> Deletion
+                          -> Delete from end
+                          -> Delete from given index
+                   -> Updation
+                   -> Searching
+                          -> Linear Search
+                          -> Binary Search
+                   -> Sorting
+                          -> Bubble sort
+                          -> Selection sort
+                          -> Insertion sort
+                   -> Rotation
+                   -> Shifting
+
